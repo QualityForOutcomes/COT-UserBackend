@@ -1,6 +1,3 @@
-# COT-UserBackend
-Serverless backend APIs developed to handle user related Tasks
-=======
 # Node.js Hello World
 
 Simple Node.js + Vercel example that returns a "Hello World" response.
